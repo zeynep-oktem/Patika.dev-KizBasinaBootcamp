@@ -126,13 +126,11 @@ Bu raporda kullanılan veri seti **11 Temmuz’a kadar geçerli** en güncel ver
 
 ## 📷 Görseller
 
-![Giriş](img/img0.png) 
+![Giriş](./img/img0.png)
+![Özet Sayfa](./img/img1.png)
+![Müşteri Perspektifi](./img/img2.png)
+![Kategori Perspektifi](./img/img3.png)
 
-![Özet Sayfa](img/img1.png)  
-
-![Müşteri Perspektifi](img/img2.png)  
-
-![Kategori Perspektifi](img/img3.png)  
 
 
 
